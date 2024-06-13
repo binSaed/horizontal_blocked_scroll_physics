@@ -1,4 +1,4 @@
 library horizontal_blocked_scroll_physics;
 
 export 'src/horizontal_blocked_scroll_physics.dart'
-    show RightBlockedScrollPhysics, LeftBlockedScrollPhysics;
+    show RightBlockedScrollPhysics, LeftBlockedScrollPhysics, HorizontalBlockedScrollPhysics;
